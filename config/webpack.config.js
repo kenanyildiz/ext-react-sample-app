@@ -590,7 +590,7 @@ module.exports = function (webpackEnv) {
         framework: 'react',
         toolkit: 'classic',
         theme: 'theme-triton',
-        packages: ['exporter', 'pivot'],
+        packages: ['exporter', 'pivot', 'hello' ],
         script: '',
         emit: 'yes',
         port: 1962,
